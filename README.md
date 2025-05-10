@@ -31,11 +31,13 @@ phục vụ các bài toán phân tích tác động của tin tức đến th�
      - `neutral` nếu nằm giữa
 
 6. **Thống kê, khai phá dữ liệu, trực quan hóa**
+   - **File notebook**: EDA_Sentiment_Analysis_Financial_News.ipynb
    - Đếm số lượng câu theo từng sentiment
    - Vẽ biểu đồ phân phối điểm sentiment
    - Tạo WordCloud cho từng nhóm sentiment
 
 7. **Dự báo cảm xúc bằng mô hình học máy và học sâu**
+   - **File notebook**: Sentiment_Analysis_Financial_News.ipynb
    - **Vector hóa văn bản**: Sử dụng TF-IDF, CountVectorizer hoặc Embedding layer.
    - **Xây dựng mô hình học máy**: Logistic Regression, Random Forest, SVM.
    - **Xây dựng mô hình học sâu**: MLP, LSTM, hoặc GRU cho bài toán phân loại sentiment.
